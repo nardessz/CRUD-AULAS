@@ -178,5 +178,6 @@ $conn->close();
         </select><br>
         <input type="submit" name="delete_professor" value="Excluir Professor">
     </form>
+    <div></div>
 </body>
 </html>
